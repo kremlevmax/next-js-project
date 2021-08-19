@@ -14,6 +14,7 @@ const DUMMY_DATA = [
       "https://s3.amazonaws.com/media.eremedia.com/wp-content/uploads/2017/10/17082809/meetup.jpg",
     title: "Second Meetup",
     address: "Right there",
+    description: "This is a second meetup description",
   },
 ];
 
